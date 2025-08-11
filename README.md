@@ -120,7 +120,7 @@
 
     <div class="section" id="contacto">
       <h2>📞 Contacto</h2>
-      <p class="telefono">📱 <strong>614 290 0653</strong></p>
+      <p class="telefono">📱 <strong>614 422 0400</strong></p>
       <p class="telefono">📱 <strong>614 412 9924</strong></p>
       <p>Escríbenos por WhatsApp para cotizaciones o preguntas:</p>
       <a class="btn-wsp" href="https://wa.me/5216142900653" target="_blank">Enviar WhatsApp</a>
